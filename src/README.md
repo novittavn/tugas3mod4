@@ -26,7 +26,7 @@ To run this project, you will need:
 
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/Bejongs/tugas3modul4.git
+   git clone https://github.com/novittavn/tugas3mod4.git
 
 2. Open the project in your preferred IDE and run the main program.
 
